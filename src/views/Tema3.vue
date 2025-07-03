@@ -154,14 +154,15 @@
             td Historial completo de interacciones, seguimiento eficiente.
             td Requiere formación previa del equipo y actualización constante.
 
-    separador
+    .bg_waves
+      separador
 
-    .row.mx-auto.justify-content-center.align-items-stretch(data-aos="zoom-in")
-      .col-1.d-none.d-lg-block
-      .col-12.col-lg-10.d-flex.align-items-center
-        .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
-          h2#t_3_3 3.3 Manejo de quejas y reclamos
-      .col-1.d-none.d-lg-block
+      .row.mx-auto.justify-content-center.align-items-stretch(data-aos="zoom-in")
+        .col-1.d-none.d-lg-block
+        .col-12.col-lg-10.d-flex.align-items-center
+          .titulo-segundo.color-acento-contenido(data-aos="zoom-in")
+            h2#t_3_3 3.3 Manejo de quejas y reclamos
+        .col-1.d-none.d-lg-block
     
     .row.mx-auto.justify-content-center.align-items-stretch(data-aos="zoom-in")
       .col-1.d-none.d-lg-block

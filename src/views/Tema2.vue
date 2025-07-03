@@ -98,22 +98,23 @@
              
     separador
 
-    .titulo-segundo.color-acento-contenido
-      h2#t_2_2 2.2 Herramientas de evaluación
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
-      .col-lg-3.col-md-6.mb-4.col-8
-        figure
-          img(src='@/assets/curso/temas/tema2/img_07.png', alt='Imagen decorativa')
-      .col-lg-9.mb-4
-        p Mejorar la experiencia del cliente requiere comprender en detalle cómo vive y valora cada punto de contacto con la marca. Por ello, las herramientas de gestión de la satisfacción cumplen un rol fundamental en el diagnóstico del nivel de conformidad del consumidor. Estas herramientas permiten capturar datos clave sobre la experiencia, expectativas y emociones de los clientes frente a los productos o servicios que reciben. A partir de esta información, las empresas pueden diseñar acciones correctivas, anticipar necesidades, personalizar sus ofertas y fortalecer la fidelización. 
-        .row
-          .col-12.col-lg-9.mb-4.mb-lg-0
-            .cajon.color-acento-contenido.p-4
-              p.mb-0 Actualmente, existe una amplia variedad de instrumentos para recoger esta información. Algunos se centran en métodos cuantitativos, como encuestas automatizadas, mientras que otros apelan a enfoques cualitativos, como entrevistas y grupos focales, que permiten una comprensión más profunda de la voz del cliente. También hay tecnologías avanzadas como los sistemas CRM, que integran múltiples fuentes de datos y facilitan el análisis en tiempo real. Algunas herramientas son:
-          .col-6.col-lg-3.mx-auto
-            figure
-              img(src='@/assets/curso/temas/tema2/img_08.svg', alt='Imagen decorativa').mx-auto.w-auto
+    .bg_waves.bg_top
+      .titulo-segundo.color-acento-contenido
+        h2#t_2_2 2.2 Herramientas de evaluación
+      
+      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+        .col-lg-3.col-md-6.mb-4.col-8
+          figure
+            img(src='@/assets/curso/temas/tema2/img_07.png', alt='Imagen decorativa')
+        .col-lg-9.mb-4
+          p Mejorar la experiencia del cliente requiere comprender en detalle cómo vive y valora cada punto de contacto con la marca. Por ello, las herramientas de gestión de la satisfacción cumplen un rol fundamental en el diagnóstico del nivel de conformidad del consumidor. Estas herramientas permiten capturar datos clave sobre la experiencia, expectativas y emociones de los clientes frente a los productos o servicios que reciben. A partir de esta información, las empresas pueden diseñar acciones correctivas, anticipar necesidades, personalizar sus ofertas y fortalecer la fidelización. 
+          .row
+            .col-12.col-lg-9.mb-4.mb-lg-0
+              .cajon.color-acento-contenido.p-4
+                p.mb-0 Actualmente, existe una amplia variedad de instrumentos para recoger esta información. Algunos se centran en métodos cuantitativos, como encuestas automatizadas, mientras que otros apelan a enfoques cualitativos, como entrevistas y grupos focales, que permiten una comprensión más profunda de la voz del cliente. También hay tecnologías avanzadas como los sistemas CRM, que integran múltiples fuentes de datos y facilitan el análisis en tiempo real. Algunas herramientas son:
+            .col-6.col-lg-3.mx-auto
+              figure
+                img(src='@/assets/curso/temas/tema2/img_08.svg', alt='Imagen decorativa').mx-auto.w-auto
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9
