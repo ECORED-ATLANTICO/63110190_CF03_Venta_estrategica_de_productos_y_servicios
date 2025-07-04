@@ -109,7 +109,7 @@
       table
         caption 
           b Fuente: 
-          | adaptado SENA, 2025, normas ISO 10002:2018
+          | Adaptado de SENA (2025), basado en la norma ISO 10002:2018.
         thead
           tr
             th Formato o medio
@@ -239,7 +239,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img_07.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Comercializar productos y servicios es una actividad muy importante en el desarrollo de cualquier entidad. Implica no solo la venta de productos o servicios, sino también la creación de una relación duradera con los clientes mediante estrategias efectivas de venta, atención y fidelización. 
+            p Las soluciones eficaces son aquellas que no solo abordan el problema inmediato, sino que también generan un impacto positivo en la relación a largo plazo. La manera en que una empresa responde ante un inconveniente puede influir decisivamente en la fidelización de su cliente.
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-6.col-11.mb-4.mb-xl-0

@@ -202,13 +202,13 @@
         .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="zoom-in").ordenar_div
           .col-12.col-lg-9
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 1. 
+              h5 Tabla 2. 
               span Ciclo del servicio al cliente
             .tabla-a.color-primario
               table
                 caption 
                   b Fuente: 
-                  | Kotler, P., & Keller, K. L. (2016)
+                  | Kotler, P., & Keller, K. L. (2016).
                 thead
                   tr
                     th Pregunta
@@ -234,13 +234,13 @@
     .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="zoom-in")
       .col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 2. 
+          h5 Tabla 3. 
           span Encuesta satisfacción del producto
         .tabla-a.mb-5.color-acento-contenido
           table
             caption 
               b Fuente: 
-              | Kotler, P., & Keller, K. L. (2016)
+              | Kotler, P., & Keller, K. L. (2016).
             thead
               tr
                 th Pregunta
@@ -272,13 +272,13 @@
     .row.justify-content-center.align-items-center.my-3.mb-5(data-aos="zoom-in")
       .col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 3. 
+          h5 Tabla 4. 
           span Encuesta satisfacción del producto
         .tabla-a.mb-5.color-acento-botones
           table
             caption 
               b Fuente: 
-              | Kotler, P., & Keller, K. L. (2016)
+              | Kotler, P., & Keller, K. L. (2016).
             thead
               tr
                 th Pregunta

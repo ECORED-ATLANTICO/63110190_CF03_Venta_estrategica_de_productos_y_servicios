@@ -257,36 +257,36 @@ export default {
   referencias: [
     {
       referencia:
-        'Chaffey, D., & Ellis-Chadwick, F. (2019). Marketing digital: estrategia, implementación y práctica (7.ª ed.). Pearson Educación.',
+        'Chaffey, D., & Ellis-Chadwick, F. (2019). <i>Marketing digital: estrategia, implementación y práctica (7.ª ed.). Pearson Educación.</i>',
       link:
         'https://digilib.stiestekom.ac.id/assets/dokumen/ebook/feb_27aff686c21a3ec16bdc9e2e8d785bf6b8d8e4e8_1655821975.pdf',
     },
     {
       referencia:
-        'Grönroos, C. (2007). Marketing y gestión de servicios: la gestión de los momentos de la verdad y la competencia en los servicios. Díaz de Santos.',
+        'Grönroos, C. (2007).<i>Marketing y gestión de servicios: la gestión de los momentos de la verdad y la competencia en los servicios. Díaz de Santos.</i>',
       link:
         ' https://books.google.com.co/books?hl=es&id=rKAGC6DkiVAC&printsec=frontcover',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2016). Dirección de marketing (15.ª ed.). Pearson Educación.',
+        'Kotler, P., & Keller, K. L. (2016). <i>Dirección de marketing (15.ª ed.). Pearson Educación.</i>',
       link:
         'https://www.leo.edu.pe/wp-content/uploads/2019/12/direccion-de-marketing-philip-kotler-1.pdf',
     },
     {
       referencia:
-        'Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988). SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. Journal of Retailing, 64(1), 12–40. ',
+        'Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988). <i>SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. Journal of Retailing, 64(1), 12–40.</i> ',
       link:
         'https://www.researchgate.net/publication/200827786_SERVQUAL_A_Multiple-item_Scale_for_Measuring_Consumer_Perceptions_of_Service_Quality',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje – SENA. (s.f.). Peticiones, quejas, reclamos, sugerencias y denuncias – PQRS.',
+        'Servicio Nacional de Aprendizaje – SENA. (s.f.). <i>Peticiones, quejas, reclamos, sugerencias y denuncias – PQRS.</i>',
       link: 'https://www.sena.edu.co/es-co/ciudadano/paginas/pqrs.aspx',
     },
     {
       referencia:
-        'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Marketing de servicios: integración del enfoque en el cliente a través de la empresa (7.ª ed.). McGraw-Hill Education.',
+        'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). <i>Marketing de servicios: integración del enfoque en el cliente a través de la empresa (7.ª ed.). McGraw-Hill Education.</i>',
       link:
         ' https://books.google.com/books/about/MARKETING_DE_SERVICIOS.html?hl=es&id=GHHXQwAACAAJ',
     },
