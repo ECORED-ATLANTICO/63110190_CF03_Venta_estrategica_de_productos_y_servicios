@@ -49,7 +49,7 @@
 
         .tabla-a
           table
-            caption <strong>Fuente:</strong> adaptado de Lemon y Verhoef (2016), Zeithaml et al. (2018), Grönroos (2007), Haffey y Ellis-Chadwick (2019).
+            caption <strong>Nota:</strong> Adaptado de Lemon y Verhoef (2016), Zeithaml et al. (2018), Grönroos (2007), Haffey y Ellis-Chadwick (2019).
             thead
               tr
                 th Herramienta
@@ -66,12 +66,16 @@
               tr
                 td.text-start Personalización de servicios
                 td.text-start Se adapta el producto y servicio según las preferencias y necesidades específicas del cliente.
-                td.text-start - Una tienda online sugiere productos según compras anteriores.  <br>
+                td.text-start - Una tienda 
+                  i online 
+                  | sugiere productos según compras anteriores.  <br>
                   | - Un hotel ofrece almohadas y menús adaptados a los gustos del huésped recurrente.
               tr
                 td.text-start Comunicación constante
                 td.text-start Envío regular de información relevante (boletines, ofertas y novedades).
-                td.text-start - Una boutique envía nuevos diseños disponibles a sus clientes.  <br>
+                td.text-start - Una 
+                  i boutique 
+                  | envía nuevos diseños disponibles a sus clientes.  <br>
                   | - Una tienda de moda notifica nuevas colecciones a sus clientes por correo electrónico.
 
               tr

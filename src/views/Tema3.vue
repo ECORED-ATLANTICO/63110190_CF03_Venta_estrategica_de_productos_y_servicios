@@ -108,7 +108,7 @@
     .tabla-a.color-primario
       table
         caption 
-          b Fuente: 
+          b Nota: 
           | Adaptado de SENA (2025), basado en la norma ISO 10002:2018.
         thead
           tr
@@ -129,8 +129,10 @@
             td Rápido, permite adjuntar evidencia, se puede gestionar desde cualquier lugar.
             td Responder en un plazo máximo de 48 horas, tener formato de respuesta.
           tr
-            td Formulario en sitio web
-            td Plataforma digital en la página web del negocio con campos específicos.
+            td Formulario en sitio 
+              i web
+            td Plataforma digital en la página 
+              i web del negocio con campos específicos.
             td Permite estructurar la información, recopila datos clave.
             td Mantener visible y funcional, incluir campos claros y cortos.
           tr
@@ -169,10 +171,10 @@
       .col-12.col-lg-10.d-flex.align-items-center
         .bloque-texto-b.color-azul.mb-4
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
+            //- i.fas.fa-quote-left
             p El manejo adecuado de las quejas y reclamos es un componente esencial en la estrategia de servicio al cliente. Requiere habilidades interpersonales, como la escucha activa, la empatía, y la capacidad para analizar la situación de forma objetiva y ofrecer soluciones rápidas y eficaces. Empresas que gestionan correctamente estas situaciones no solo resuelven el problema, sino que también convierten la experiencia negativa en una oportunidad para fortalecer la relación con el cliente.<br>
-            p (González & Martínez, 2019)
-            i.fas.fa-quote-right
+            p (González & Martínez, 2019).
+            //- i.fas.fa-quote-right
       .col-1.d-none.d-lg-block
 
     .row.mx-auto.justify-content-center.align-items-stretch(data-aos="zoom-in")

@@ -173,7 +173,8 @@
       .py-4.py-md-5(titulo="Encuesta de satisfacción del producto" :icono="require('@/assets/curso/temas/tema2/img_30.svg')")
         .row.px-4.align-items-center
           .col-md-8.mb-4.mb-md-0
-            p Esta encuesta tiene como finalidad recopilar información sobre la percepción de los usuarios en relación con la calidad del producto adquirido, el cumplimiento en los tiempos de entrega, la protección durante el transporte y la intención de recompra. La información obtenida permitirá identificar oportunidades de mejora en los procesos logísticos, de calidad y atención al cliente. Se solicita responder cada pregunta según la experiencia vivida con el producto recibido.
+            p Esta encuesta tiene como finalidad recopilar información sobre la percepción de los usuarios en relación con la calidad del producto adquirido, el cumplimiento en los tiempos de entrega, la protección durante el transporte y la intención de recompra. 
+            p La información obtenida permitirá identificar oportunidades de mejora en los procesos logísticos, de calidad y atención al cliente. Se solicita responder cada pregunta según la experiencia vivida con el producto recibido.
             p Las respuestas deberán ser objetivas, reflejando la percepción real del usuario. En las preguntas abiertas, se invita a expresar comentarios que contribuyan a mejorar la calidad del servicio.
           .col-md-4
             figure
@@ -250,7 +251,8 @@
                 td 1. ¿Qué tan satisfecho estás con la calidad del producto que adquiriste?
                 td - Muy insatisfecho- Insatisfecho- Neutral- Satisfecho- Muy satisfecho
               tr
-                td 2. ¿El producto cumplió con tus expectativas según lo descrito en la página web?
+                td 2. ¿El producto cumplió con tus expectativas según lo descrito en la página 
+                  i web?
                 td - No cumplió para nada- Cumplió parcialmente- Cumplió completamente
               tr
                 td 3. ¿El producto llegó en el tiempo estimado?
