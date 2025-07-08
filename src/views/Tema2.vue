@@ -204,7 +204,7 @@
           .col-12.col-lg-9
             .titulo-sexto.color-acento-contenido
               h5 Tabla 2. 
-              span Ciclo del servicio al cliente
+              span Encuesta NPS
             .tabla-a.color-primario
               table
                 caption 
