@@ -49,7 +49,7 @@
 
         .tabla-a
           table
-            caption <strong>Nota:</strong> Adaptado de Lemon y Verhoef (2016), Zeithaml et al. (2018), Grönroos (2007), Haffey y Ellis-Chadwick (2019).
+            caption <strong>Nota.</strong> Adaptado de Lemon y Verhoef (2016), Zeithaml et al. (2018), Grönroos (2007), Haffey y Ellis-Chadwick (2019).
             thead
               tr
                 th Herramienta

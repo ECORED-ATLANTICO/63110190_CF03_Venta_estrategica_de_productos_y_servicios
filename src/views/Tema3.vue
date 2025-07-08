@@ -108,7 +108,7 @@
     .tabla-a.color-primario
       table
         caption 
-          b Nota: 
+          b Nota. 
           | Adaptado de SENA (2025), basado en la norma ISO 10002:2018.
         thead
           tr
