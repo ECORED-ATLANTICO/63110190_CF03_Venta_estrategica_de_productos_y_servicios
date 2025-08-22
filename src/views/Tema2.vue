@@ -179,7 +179,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/img_13.png', alt='Imagen decorativa')
-      .py-4.py-md-5(titulo="Encuesta de satisfacción del producto" :icono="require('@/assets/curso/temas/tema2/img_31.svg')")
+      .py-4.py-md-5(titulo="Encuesta de satisfacción del servicio" :icono="require('@/assets/curso/temas/tema2/img_31.svg')")
         .row.px-4.align-items-center
           .col-md-8.mb-4.mb-md-0
             p Este instrumento tiene como propósito recopilar información sobre el nivel de satisfacción del usuario respecto al servicio recibido, la atención brindada por el personal y la percepción del equilibrio entre el costo y la calidad del servicio. 

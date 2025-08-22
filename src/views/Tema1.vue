@@ -98,8 +98,8 @@
 
         figure.mb-4
           figure.mb-3
-            img(src='@/assets/curso/temas/tema1/img_04.svg', alt='Texto que describa la imagen').mx-auto.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img_04m.svg', alt='Texto que describa la imagen').mx-auto.d-block.d-lg-none
+            img(src='@/assets/curso/temas/tema1/img_04.svg', alt='En la figura 1 se muestran las herramientas de fidelización y postventa: programas de lealtad, personalización, comunicación constante, encuestas de satisfacción y atención postventa.').mx-auto.d-none.d-lg-block
+            img(src='@/assets/curso/temas/tema1/img_04m.svg', alt='En la figura 1 se muestran las herramientas de fidelización y postventa: programas de lealtad, personalización, comunicación constante, encuestas de satisfacción y atención postventa.').mx-auto.d-block.d-lg-none
 
           figcaption 
             b Fuente: 

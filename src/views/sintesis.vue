@@ -6,9 +6,9 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in")
       .col-lg-2.col-md-5.mb-4.col-6
         figure
-          img(src='@/assets/curso/img_sintesis.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/img_sintesis.svg', alt='El componente formativo Fidelización y postventa de productos y servicios se enfoca en fortalecer competencias clave para la atención y permanencia del cliente, mediante el uso de herramientas, estrategias y técnicas orientadas a la fidelización, evaluación de la satisfacción y gestión efectiva de quejas, reclamos y sugerencias, promoviendo así una mejora continua en la experiencia del cliente y relaciones comerciales duraderas desde un enfoque técnico y práctico.')
       .col-lg-10.mb-4
-        p El componente Comercialización de productos y servicios permite al aprendiz comprender y aplicar conceptos fundamentales relacionados con la atención al cliente, los momentos de verdad, y los objetivos de venta. A través del estudio de estrategias y técnicas de ventas, así como del proceso comercial y sus fases, se fortalece la capacidad para interactuar con el cliente de manera efectiva. Este módulo ofrece herramientas prácticas que facilitan la construcción de relaciones sólidas y la toma de decisiones comerciales acertadas, enfocadas en satisfacer necesidades y lograr resultados positivos en el entorno de ventas. 
+        p El componente formativo Fidelización y postventa de productos y servicios se enfoca en fortalecer competencias clave para la atención y permanencia del cliente, mediante el uso de herramientas, estrategias y técnicas orientadas a la fidelización, evaluación de la satisfacción y gestión efectiva de quejas, reclamos y sugerencias, promoviendo así una mejora continua en la experiencia del cliente y relaciones comerciales duraderas desde un enfoque técnico y práctico.
 
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad

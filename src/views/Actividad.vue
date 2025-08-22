@@ -20,7 +20,7 @@ export default {
       tema: 'Fidelización y postventa de productos y servicios',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y aplicabilidad de los conceptos teóricos de la fidelización y postventa de productos y servicios.',
+        '<b> Objetivo:</b> evaluar la comprensión y aplicabilidad de los conceptos teóricos de la fidelización y postventa de productos y servicios.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -409,12 +409,12 @@ export default {
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

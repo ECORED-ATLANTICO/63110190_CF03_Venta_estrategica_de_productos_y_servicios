@@ -172,8 +172,7 @@
         .bloque-texto-b.color-azul.mb-4
           .bloque-texto-b__texto
             //- i.fas.fa-quote-left
-            p El manejo adecuado de las quejas y reclamos es un componente esencial en la estrategia de servicio al cliente. Requiere habilidades interpersonales, como la escucha activa, la empatía, y la capacidad para analizar la situación de forma objetiva y ofrecer soluciones rápidas y eficaces. Empresas que gestionan correctamente estas situaciones no solo resuelven el problema, sino que también convierten la experiencia negativa en una oportunidad para fortalecer la relación con el cliente <br>
-            p (González & Martínez, 2019).
+            p El manejo adecuado de las quejas y reclamos es un componente esencial en la estrategia de servicio al cliente. Requiere habilidades interpersonales, como la escucha activa, la empatía, y la capacidad para analizar la situación de forma objetiva y ofrecer soluciones rápidas y eficaces. Empresas que gestionan correctamente estas situaciones no solo resuelven el problema, sino que también convierten la experiencia negativa en una oportunidad para fortalecer la relación con el cliente  (González & Martínez, 2019).
             //- i.fas.fa-quote-right
       .col-1.d-none.d-lg-block
 
