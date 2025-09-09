@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión y aplicabilidad de los conceptos teóricos de la fidelización y postventa de productos y servicios.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
